@@ -1,6 +1,4 @@
-package SingleResponsibility.task;
-
-import java.util.List;
+package singleresponsibility.task;
 
 public class ViolationChecker {
 

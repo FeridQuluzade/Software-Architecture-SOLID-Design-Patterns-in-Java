@@ -1,4 +1,4 @@
-package SingleResponsibility.example;
+package singleresponsibility.example;
 
 public class Main {
 

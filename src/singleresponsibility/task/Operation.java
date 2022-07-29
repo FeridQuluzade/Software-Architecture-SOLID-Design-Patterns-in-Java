@@ -1,4 +1,4 @@
-package SingleResponsibility.task;
+package singleresponsibility.task;
 
 import java.util.Collections;
 import java.util.List;

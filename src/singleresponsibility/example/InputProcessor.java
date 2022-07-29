@@ -1,4 +1,4 @@
-package SingleResponsibility.example;
+package singleresponsibility.example;
 
 import java.util.Scanner;
 
