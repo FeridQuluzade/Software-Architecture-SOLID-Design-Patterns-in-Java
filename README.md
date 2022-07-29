@@ -15,3 +15,9 @@ O — Open/Closed Principle
 Software entities should be open for EXTENSION, but closed for MODIFICATION. Allow behavior to be extended without modifying the source-code.
 
 ![image](https://user-images.githubusercontent.com/83503063/181781724-39472fb0-2eac-4843-8979-c55922a339ae.png)
+
+L — Liskov Substitution Principle
+
+Objects in a program should be replaceable with instances of their subtypes without altering the correctness of that program.
+
+![image](https://user-images.githubusercontent.com/83503063/181821742-fca1fd0d-61b4-448c-a5d9-fa2756371833.png)
