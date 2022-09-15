@@ -31,7 +31,6 @@ public class Triangle implements Shape {
         return areaVisitor.visit(this);
     }
 
-    @Override
     public double getArea() {
         return (base * height) / 2;
     }

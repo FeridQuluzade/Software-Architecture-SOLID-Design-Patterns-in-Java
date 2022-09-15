@@ -1,6 +1,7 @@
 package designpattern.behavioral.visitor.task;
 
 public class ShapeArea implements ShapeAreaVisitor {
+
     @Override
     public double visit(Circle circle) {
         return circle.getArea();
