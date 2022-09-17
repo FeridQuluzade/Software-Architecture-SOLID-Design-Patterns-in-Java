@@ -1,6 +1,6 @@
 package designpattern.behavioral.strategy.example;
 
-public class Division implements Operation {
+public class  Division implements Operation {
 
     @Override
     public void execute(int num1, int num2) {
